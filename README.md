@@ -68,14 +68,6 @@ Collect power-ups to gain temporary advantages:
   <img src="screenshots/Level-Select.png" width="300">
 </p>
 
-```
-screenshots/
-├── menu.png
-├── gameplay.png
-├── level-select.png
-└── game-over.png
-```
-
 ---
 
 ## 🛠️ Installation
