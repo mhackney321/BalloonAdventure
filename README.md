@@ -62,10 +62,10 @@ Collect power-ups to gain temporary advantages:
 ## 📱 Screenshots
 
   <p align="center">
-  <img src="images/Menu.png" width="300">
+  <img src="screenshots/Menu.png" width="300">
   <img src="screenshots/GamePlay.png" width="300">
-  <img src="GameOver.png" width="300">
-  <img src="Level-Select.png" width="300">
+  <img src="screenshots/GameOver.png" width="300">
+  <img src="screenshots/Level-Select.png" width="300">
 </p>
 
 ```
