@@ -61,11 +61,11 @@ Collect power-ups to gain temporary advantages:
 
 ## 📱 Screenshots
 
-<p align="center">
-  ![Balloon Adventure Menu](Menu.png)
-  ![Balloon Adventure Gameplay](GamePlay.png)
-  ![Balloon Adventure GameOver](GameOver.png)
-  ![Balloon Adventure Level-Select](Level-Select.png)
+  <p align="center">
+  <img src="images/Menu.png" width="300">
+  <img src="images/GamePlay.png" width="300">
+  <img src="images/GameOver.png" width="300">
+  <img src="images/Level-Select.png" width="300">
 </p>
 
 ```
