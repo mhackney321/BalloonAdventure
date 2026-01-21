@@ -63,9 +63,9 @@ Collect power-ups to gain temporary advantages:
 
   <p align="center">
   <img src="images/Menu.png" width="300">
-  <img src="images/GamePlay.png" width="300">
-  <img src="images/GameOver.png" width="300">
-  <img src="images/Level-Select.png" width="300">
+  <img src="Screenshots/GamePlay.png" width="300">
+  <img src="GameOver.png" width="300">
+  <img src="Level-Select.png" width="300">
 </p>
 
 ```
